@@ -158,6 +158,8 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+*.p8
+*.pem
 
 # Spyder project settings
 .spyderproject
